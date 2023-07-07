@@ -16,7 +16,7 @@ function Courses() {
                 <img src={jeelogo} alt="" />
             </div>
             <div className="course-name">
-                How to blow like a champ
+                Crash Course 2024
             </div>
             <p className="course-description">
                 The most trusted Crash Course
