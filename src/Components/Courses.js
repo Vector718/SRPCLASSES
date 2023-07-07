@@ -16,7 +16,7 @@ function Courses() {
                 <img src={jeelogo} alt="" />
             </div>
             <div className="course-name">
-                JEE Main Crash Course
+                How to blow like a champ
             </div>
             <p className="course-description">
                 The most trusted Crash Course
